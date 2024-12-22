@@ -127,8 +127,8 @@ nav {
 }
 
 .about-me__picture--mask {
-  width: 100px;
-  height: 120px;
+  width: 120px;
+  height: 140px;
   border-radius: 20%;
   overflow: hidden;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.30);
